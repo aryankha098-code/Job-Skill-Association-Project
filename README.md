@@ -218,3 +218,7 @@ This project is open-source and available under the MIT License.
 
 <img width="975" height="547" alt="image" src="https://github.com/user-attachments/assets/a27b3a03-d5ce-45e0-8322-71846cb3f8ca" />
 
+
+<img width="664" height="370" alt="image python 2" src="https://github.com/user-attachments/assets/3a9e6865-d903-46f0-9f74-9fd9ae056752" />
+
+

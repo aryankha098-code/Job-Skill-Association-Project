@@ -1,4 +1,5 @@
-# 📊 Resume Data Mining & Job Market Analysis System
+# Resume Data Mining 
+# Job Market Analysis System
 
 A comprehensive data mining and analytics project that extracts meaningful insights from resume and job description data to understand skill demand, hiring trends, and candidate-job alignment.
 
